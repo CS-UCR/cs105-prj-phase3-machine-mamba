@@ -7,9 +7,11 @@ In this particular phase. I did not deem it necessary to gather anymore data. Th
 
 These datasets included (not all):
 - twitter_players.csv
-  - boomer
+  - Based on Top NBA Player Twitter followings. 
 - team_valuations.csv
+  - NBA team valuations (*based on billions)
 - shot_logs.csv
+  - NBA Player shot logs of every game from the NBA 2016 - 2017 season. 
 
 
 # Project Phase 2 - Data Cleaning and EDA
