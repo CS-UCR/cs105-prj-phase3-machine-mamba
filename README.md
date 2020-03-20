@@ -17,8 +17,14 @@ These datasets included (not all):
 
 
 # Project Phase 2 - Data Cleaning and EDA
-TBD. 
+The process of cleaning the data was not difficult in my case due to the relative precleaning of data found on kaggle. However making sure to look through various data sets in order to paint a better story was necessary. 
 
+EDA included taking a look a various trends, interesting information, as well as in depth analaysis of several datasets. 
+
+- NBA Team Attendance vs Valuation 
+- NBA Teams with the highest average player salaries and valuations vs NBA Team W/L
+-
+-
 
 
 # Project Phase 3 - Data Analysis Phase
