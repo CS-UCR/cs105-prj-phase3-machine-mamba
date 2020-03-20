@@ -14,6 +14,8 @@ These datasets included (not all):
   - NBA Team attendance (total number of attendance over the course of 1 season & average game attendance) 
 - nba_2017team_valuations.csv
   - NBA team valuations (*based on millions)
+- Team_Records.csv
+  - Team W/L percentage
 
 
 # Project Phase 2 - Data Cleaning and EDA
@@ -23,8 +25,6 @@ EDA included taking a look a various trends, interesting information, as well as
 
 - NBA Team Attendance vs Valuation 
 - NBA Teams with the highest average player salaries and valuations
--
--
 
 
 # Project Phase 3 - Data Analysis Phase
