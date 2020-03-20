@@ -7,7 +7,9 @@ SID: 862085503
 
 
 # Project Phase 1 - Data Collection and Data Cleaning
-In this particular phase. I did not deem it necessary to gather anymore data. The reason being was because I pulled my data directly from kaggle.com. More specifically from https://www.kaggle.com/noahgift/social-power-nba#nba_2017_salary.csv. 
+In this particular phase. I did not deem it necessary to gather anymore data. The reason being was because I pulled my data directly from kaggle.com. More specifically from:
+  - https://www.kaggle.com/noahgift/social-power-nba#nba_2017_salary.csv
+  - https://www.kaggle.com/boonpalipatana/nba-season-records-from-every-year#Team_Records.csv
 
 These datasets included (not all):
 - nba_2017_attendance.csv
