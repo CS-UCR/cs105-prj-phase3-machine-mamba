@@ -29,5 +29,5 @@ EDA included taking a look a various trends, interesting information, as well as
 - NBA Teams with the highest average player salaries and valuations
 
 
-# Project Phase 3 - Data Analysis Phase
+# Project Phase 3 - Data Analysis
 TBD. 
