@@ -22,7 +22,7 @@ The process of cleaning the data was not difficult in my case due to the relativ
 EDA included taking a look a various trends, interesting information, as well as in depth analaysis of several datasets. 
 
 - NBA Team Attendance vs Valuation 
-- NBA Teams with the highest average player salaries and valuations vs NBA Team W/L
+- NBA Teams with the highest average player salaries and valuations
 -
 -
 
